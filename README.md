@@ -11,3 +11,9 @@ A reusable, question-led teaching skill for creating learning plans, resuming le
 - `Tools/Argue.md` — two-perspective debate and tribunal workflow.
 
 Load `SKILL.md` with the adjacent `Tools/` guides available. The workflow can draft a journey from source material or a topic, then create plan/progress files only after the learner approves the plan and destination.
+
+## Tests and behavioral evidence
+
+- `eval-fixture.md` defines the behavior cases and their pass/fail criteria.
+- `Fixtures/` contains clearly labeled, synthetic test context.
+- `eval-runs/` stores dated model runs, full outputs, metadata, and scorecards. These are behavioral test artifacts—not Ralph iteration logs.
